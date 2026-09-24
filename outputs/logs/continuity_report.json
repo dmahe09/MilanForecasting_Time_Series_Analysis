@@ -1,0 +1,10 @@
+{
+  "raw_continuity": {
+    "expected_steps": 8928,
+    "actual_steps": 8928,
+    "missing_steps": 0,
+    "missing_days": [],
+    "is_continuous": true
+  },
+  "missing_file_days": []
+}

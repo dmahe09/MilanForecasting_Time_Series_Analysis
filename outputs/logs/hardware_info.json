@@ -1,0 +1,8 @@
+{
+  "python_version": "3.9.6",
+  "platform": "macOS-26.7-x86_64-i386-64bit",
+  "processor": "i386",
+  "cpu_count_logical": 16,
+  "ram_total_gb": 68.7,
+  "gpu": "no GPU backend detected"
+}

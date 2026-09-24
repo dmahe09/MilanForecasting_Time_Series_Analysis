@@ -1,0 +1,4 @@
+model,train_time_s,predict_time_s,hardware,gpu,method
+LSTM,143.76923314730325,117.2649089495341,i386,no GPU backend detected,averaged across the 3 target areas
+LightGBM,1.3424100081125896,7.596973975499471,i386,no GPU backend detected,averaged across the 3 target areas
+SARIMA,6.665617068608602,0.02801036834716797,i386,no GPU backend detected,averaged across the 3 target areas
